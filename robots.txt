@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inearsif.github.io/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/app/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/assets/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/css/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/data/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/includes/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/item/sitemap.inearsif.gz
+Sitemap: https://inearsif.github.io/src/sitemap.inearsif.gz
